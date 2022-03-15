@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/marbelvega" target="blank"><img src="https://img.shields.io/twitter/follow/marbelvega?logo=twitter&style=for-the-badge" alt="marbelvega" /></a> </p>
 
-- 🔭 I’m currently working on [Ministry of Justice](https://www.justicia.gob.bo/portal/index.php)
+- 🔭 I’m currently Freelancer
 
 - 🌱 I’m currently learning **DevOps, Ethical Hacking**
 
